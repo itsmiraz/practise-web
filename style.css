@@ -1,0 +1,159 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+.first-section {
+    display: flex;
+}
+
+.orange {
+    color: rgb(255, 136, 0);
+}
+
+.head-text {
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: rgb(43, 43, 43);
+}
+
+.head-text h1 {
+    font-size: 4em;
+    font-weight: 700;
+}
+
+.head-img img {
+    width: 100%;
+    margin-right: 5%;
+}
+
+.order-now-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.second-section {
+    display: flex;
+    background-image: url(image/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 5%;
+
+}
+
+.second-image img {
+    width: 70%;
+    margin-left: 30%;
+}
+
+.second-text {
+    width: 100%;
+    margin: 5%;
+    margin-left: 10%;
+    margin-top: 10%;
+    font-size: 1em;
+    margin-right: 10%;
+    text-align: justify;
+}
+
+.second-text h1 {
+    font-size: 2em;
+    color: rgb(54, 51, 51);
+}
+
+.second-text p {
+    font-size: larger;
+    color: rgb(22, 22, 21);
+}
+
+.heading {
+    text-align: center;
+    margin: 10%;
+
+}
+
+.heading {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.heading h1 {
+    font-size: 2em;
+}
+
+.final-section {
+    display: flex;
+    margin: 7%;
+    justify-items: center;
+}
+
+.last-box {
+    width: 50%;
+    margin: 2%;
+    padding: 2%;
+    box-shadow: 10px 15px 30px gray;
+    border-radius: 20px;
+
+}
+
+.last-img img {
+    width: 80%;
+    padding-left: 10%;
+}
+
+.last-para {
+    width: 100%;
+}
+
+.last-box {
+    align-items: center;
+
+}
+
+.last-head-w {
+    display: flex;
+    text-align: center
+}
+
+.hi {
+
+    margin-left: 15%;
+    ma
+}
+
+.last-head-w p {
+    font-size: medium;
+}
+
+.hi p {
+    font-size: small;
+}
+
+.final-border {
+    background-color: rgb(19, 19, 36);
+    width: 100%;
+    height: 200px;
+}
+
+.eat {
+    color: orange;
+}
+
+.last-and {
+    margin: 4%;
+    padding: 5%;
+    text-align: center;
+    color: rgb(197, 187, 187);
+}
